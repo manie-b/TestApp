@@ -1,0 +1,234 @@
+<resources>
+    <string name="app_name">Maadha</string>
+    <string name="main">Home</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Login">Settings</string>
+    <string name="action_Logout">Login</string>
+    <string name="Error_message">Logout</string>
+    <string name="Login">Login</string>
+    <string name="Logout">Logout</string>
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="visit">Continue :)</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="license">
+SS Teck Services, a Chennai based organisation are pioneer in application development, Business process outsourcing. Overall our team members have vast experience with passion, ambition and commitment has worked with over 100+ clients across the globe with international standard.We assure that we work on very short turnaround time to deliver quality service to our valuable clients. We would like to explore the possibility of cordial and long term tie up with your esteemed organisation.
+
+    </string>
+
+
+    <string name="address">
+        Address:
+        Old No. 18, New No. 5,
+        Subba Naidu Street, Choolai,
+        Chennai, Tamil Nadu 600112
+    </string>
+
+    <string name="address_bct">
+        Old No. 18, New No. 5,
+        Subba Naidu Street, Choolai,
+        Chennai, Tamil Nadu 600112
+    </string>
+
+
+    <string name="mailid">
+
+        sudhan@ssteckservices.com
+
+        marketing@ssteckservices.com
+
+    </string>
+
+
+    <string name="versionname">
+
+        Beta
+    </string>
+
+
+    <string name="termsandcondition">
+        Terms and Conditions -
+By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to ssteckservices.
+ssteckservices is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+The Fresh N Juicy app stores and processes personal data that you have provided to us, in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Fresh N Juicy app won’t work properly or at all.
+You should be aware that there are certain things that ssteckservices will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but ssteckservices cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+Along the same lines, ssteckservices cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, ssteckservices cannot accept responsibility.
+With respect to ssteckservices’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. ssteckservices accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+At some point, we may wish to update the app. The app is currently available on Android – the requirements for system (and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. ssteckservices does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+Changes to This Terms and Conditions
+We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at sudhan@ssteckservices.com.
+This Terms and Conditions page was generated by App Privacy Policy Generator
+
+    </string>
+
+    <string name="privacypoliy">
+
+        Privacy Policy -
+ssteckservices built the Fresh N Juicy app as a Free app. This SERVICE is provided by ssteckservices at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Fresh N Juicy unless otherwise defined in this Privacy Policy.
+Information Collection and Use
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to firebase token id. The information that we request will be retained by us and used as described in this privacy policy.
+The app does use third party services that may collect information used to identify you.
+Link to privacy policy of third party service providers used by the app
+•	Google Play Services
+•	Firebase Analytics
+Log Data
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Service Providers
+We may employ third-party companies and individuals due to the following reasons:
+•	To facilitate our Service;
+•	To provide the Service on our behalf;
+•	To perform Service-related services; or
+•	To assist us in analyzing how our Service is used.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at sudhan@ssteckservices.com .
+This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+
+    </string>
+
+    <string name="linktositeprivacypolicy">
+
+        <a href="http://push.smartstudenterp.com/fapp/privacy.html">Privacy Policy</a>
+
+    </string>
+
+    <string name="linktermsandconditions">
+
+        <a href="http://push.smartstudenterp.com/fapp/terms.html">Terms And Conditions</a>
+
+    </string>
+
+
+    <!--About us texts-->
+    <string name="aboutus_title">About Balaji Charitable Trust</string>
+    <string name="aboutus_slogan">Happiness does not result from what we get,but from what we give.</string>
+    <string name="aboutus_desc">
+        BALAJI CHARITABLE TRUST was formally registered
+        under Indian Trust Act in October 2013 by experienced Social Workers who have been in this service field since 19th century.
+
+    Registration No:214/2013
+    Unique ID:TN/2018/0185830</string>
+
+    <!--About us texts-->
+
+    <!--mission-->
+    <string name="mission">The Mission of the Trust is to reach out its charitable activities to the differently abled, Orphan / abandoned children and also persons below poverty line by providing medical, educational and livelihood support to uplift them in their lives towards self reliance irrespective of their age, caste, creed or community.</string>
+
+    <string name="vission">We aim to provide maximum service to maximum people to the maximum possible extent. We attempt to provide a life of dignity to all, a life without distinctions based on ability, gender, age, caste, language, region, religion, race, class and nationality and opinion.</string>
+
+
+    <!--services paragraph 1-->
+    <string name="service_para1">The Free Wheelchair ministry, a BALAJI CHARITABLE TRUST amongst the physically disabled, distributes wheelchairs free of cost to those most in need. To provide wheelchairs free of cost to the poorest of the poor who otherwise would be unable to afford one on their own.</string>
+    <!--services paragraph 1-->
+
+
+    <!--services paragraph 2-->
+    <string name="service_para2">BALAJI CHARITABLE TRUST staff make regular visits into the slums to seek out those who are imprisoned in their homes by their disability. Chairs are distributed once a month to recipients. As one staff from the Social Services department stated, “It is always moving to see the eagerness, joy and gratitude of the people when they finally receive their wheelchair” - a symbol of independence, hope and dignity.</string>
+    <!--services paragraph 2-->
+
+    <!--services paragraph 3-->
+    <string name="service_para3">Distribution of the wheelchairs has also opened the doors and the opportunity to hold cottage meetings in many of the recipients’ homes. BALAJI CHARITABLE TRUST is committed to continual support through regular follow-ups so that the person does not only receive the freedom of mobility but also that their whole life will be transformed.</string>
+    <!--services paragraph 3-->
+
+    <string name="about_us_balajictrust">
+        BALAJI CHARITABLE TRUST was formally registered under Indian Trusts Act in October 2013 by experienced social workers who have been in this service field since 19th Century.
+        Registration No : 214/2013
+        Unique ID : TN/2018/0185830
+    </string>
+
+
+    <string name="termsandcondition_bct">
+        * This official website of the Balaji Charitable Trust has been developed to disseminate information to the general public and help people based on humanity grounds.
+        * Though all efforts have been made to ensure the accuracy and correctness of the content on this website, the same should not be construed as a statement of law or used for any legal purposes.
+        * The web contents are subject to change without any prior notice from the Balaji Charitable Trust.
+        * In no event will the Balaji Charitable Trust be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this website.
+        * Please request permission before using our logos or other branded material.
+        * We reserve the right to require our logo to be removed from websites or printed material if it is not in our interests.
+        * Our downloadable documents, brochures and web pages are provided for your use. You may copy or print the information for private purpose including teaching. You may not amend the content or use it for commercial purposes without the written consent of Balaji Charitable Trust.
+        * Images and photos used on this website are the property of BCT or other Copyright owners.
+        * The content of the pages of this website is for your general information and use only.
+        * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose.
+    </string>
+
+
+    <string name="privacypolicly_bct">
+        Information Gathering :
+        We collect information from you, for example when you:
+        * Make a donation.
+        *  Sign up to our campaign.
+        * Sign up to stay updated.We wont collect or record your personal information unless you choose to give it us.The data we gather consist of your name, address, e-mail as well as phone numbers. This personal information is not distributed, shared, rented or given to companies or organizations that are not part of the Balaji Charitable Trust.
+
+        We use the information you give us in the following ways:
+        * To make sure we have an accurate record of all the donations we receive.
+        * To email you with news and information about Balaji Charitable Trust and our campaigns, but only if you have agreed to this.
+        * To make sure you are receiving the most appropriate and relevant information for you.
+        * To find out more about you and the people who are visiting our website, donating or joining our campaign.
+        * We seek your personal information when you make a donation, request a communication from us, register for an on-ground event, pledge support to our work and campaigns and apply for working or volunteering with Balaji Charitable Trust. This information may be sought over the phone, through the website, via email or by the means of face-to-face interaction.
+
+        Security and protection of Information:
+        * Balaji Charitable Trust uses well-recognised and proven technology for payments. Payment information is transferred by the use of an SSL connection which offers the highest degree of security that your browser is able to support.
+        * Several layers of built-in security, including an advanced firewall system, encryption of credit card numbers, and use of passwords, protect the collected information.
+
+    </string>
+
+
+    <string name="refundpolicy_bct">
+        * Balaji Charitable Trust is instituting a donation refund policy to ensure fair and transparent processing of requests for refund of donations as digital payments are becoming more frequent.
+        * Balaji Charitable Trust expects that all donors will exercise due care and diligence while making donations. Balaji Charitable Trust also recognizes that a donation may be made erroneously or donors may change their mind.
+        * Balaji Charitable Trust will examine each request for refund of donation and endeavour to make the refund.
+        * Balaji Charitable Trust may also seek further information / documents and donor must co-operate in this regard.
+        * However, Balaji Charitable Trust is not obliged to make refunds and may, in its discretion, decline any requests for refund of donations, particularly if a tax exemption certificate has been issued.
+        * If you would like your donation to be refunded you must request Balaji Charitable Trsut India in writing or by email for a refund and your request must reach Balaji Charitable Trust within 15 (fifteen) days from the date on which you made the donation.
+        * Made the donation online, electronically or through other means or handed through cheque / demand draft to or someone authorised by Balaji Charitable Trust for this purpose or despatched the cheque / demand draft to Balaji Charitable Trust by other means.
+          The written request stating reason for requesting refund must be sent to the address stated below and must contain all the following details pertaining to the donation:
+        1.Date of donation.
+        2.If donation was made through cheque/draft, please provide Cheque/Draft number.
+        3.If donation was made through credit card, please provide Credit Card number.
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "98226672016",
+    "firebase_url": "https://smartstudent-eb02f.firebaseio.com",
+    "project_id": "smartstudent-eb02f",
+    "storage_bucket": "smartstudent-eb02f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98226672016:android:a3240d4de4a30f69",
+        "android_client_info": {
+          "package_name": "com.smart.SKR_HOD.teaching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98226672016-vtmjhrd11v7cuinmrdjkhqs014va3jbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart.SKR_HOD.teaching",
+            "certificate_hash": "d41b0bb6c338091c27495dd14adb636a6d0f8ae2"
+          }
+        },
+        {
+          "client_id": "98226672016-pvvp3d773g70mmv5r1ilor0u7s4702rm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "98226672016-pvvp3d773g70mmv5r1ilor0u7s4702rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq6s-MKO_6kZN7e7akbnVkXV9Evki7C5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98226672016-pvvp3d773g70mmv5r1ilor0u7s4702rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
